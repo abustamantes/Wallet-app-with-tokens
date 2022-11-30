@@ -1,4 +1,4 @@
-# Wallet-app-with-tokens
+# Wallet app working with AES256 Tokens
 
 To see the functionality of the app, clinck on here:
 
