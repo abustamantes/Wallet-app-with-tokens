@@ -38,3 +38,5 @@ enc_text = encryptWallet(amount, key_wallet)
 print("\n")
 print(f'Use this EMD token to collect your money: {enc_text}')
 print(decryptWallet(enc_text,key_wallet))
+
+#This is a test!
